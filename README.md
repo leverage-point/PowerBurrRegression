@@ -1,2 +1,2 @@
-# PowerBurrRegression
-基于PowerBurr分布族的厚尾损失数据回归模型及其应用
+# Power Burr Regression
+PowerBurr Regression Model for Heavy-Tailed Loss Data and Its Application. 
